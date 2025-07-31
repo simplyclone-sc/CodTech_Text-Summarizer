@@ -65,6 +65,6 @@ streamlit run CodTech_Text-Summarizer.py
 
 ## 👤 Author
 
-Anas Bin Lardi  
-GitHub 👉🏻  
-LinkedIn 👉🏻  
+Anas Bin Fares Lardi
+GitHub 👉🏻  https://github.com/simplyclone-sc/  
+LinkedIn 👉🏻  https://www.linkedin.com/in/anas-lardi-b41a16375/
